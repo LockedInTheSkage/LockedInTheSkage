@@ -29,8 +29,9 @@
 </div>
 
 <h2> 🤝 I am incredibly excited about the opportunity to work and collaborate with: </h3>
+
 - [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://github.com/SverreNystad/TutorAI).
-- [Sverre Nystad](https://github.com/sandviklee) on [Mineraria 2 Java Edition](https://github.com/sandviklee/MinerariaV2) and more.
+- [Sverre Nystad](https://github.com/SverreNystad) on [TutorAI](https://github.com/SverreNystad/TutorAI)
 - [Ovi T.](https://github.com/Impelon) on the [BroadBubble](https://github.com/LockedInTheSkage/BroadBubble) project.
 
 - And many more!
