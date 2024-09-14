@@ -1,6 +1,6 @@
-<h1> Skage Reistad  <img src="" width="45" align="center"/> </h1> 
+<h1> Skage Reistad  <img src="karuBear.jpg" width="45" align="center"/> </h1> 
 <div align="center">
-<img src="karuBear.jpg">
+<img src="SverreSkageKrisogSimon.jpg">
 </div>
 
 ## About Me:
