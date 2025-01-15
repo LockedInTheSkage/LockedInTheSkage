@@ -39,7 +39,7 @@
 
 - And many more!
 
-
+<!-- 
 <h2>⚙️ GitHub Stats</h2>
 <div align="center">
   <picture>
@@ -53,7 +53,7 @@
     <img height="190em">
   </picture>
 </div>
-
+-->
 
 <details>
   <summary><strong>Projects I have worked on</strong></summary>
