@@ -41,7 +41,7 @@
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on  [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Ovidiu Viktor Tatar](https://github.com/Impelon) on the [BroadBubble](https://github.com/LockedInTheSkage/BroadBubble) project.
-- [Mikael Gundersen](https://github.com/mikelism) on the [FuzzSjakk project](https://github.com/mikelism/fuzzpwa) project.
+- [Mikael Gundersen](https://github.com/mikelism) on the [FuzzSjakk](https://github.com/mikelism/fuzzpwa) project.
 
 - And many more!
 
