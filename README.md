@@ -12,30 +12,36 @@
     - I'm a student at **NTNU Trondheim** and **Natural Science with Teacher Education**, specializing in **IT and Math, Databases and Search-functions**.
 - **💬 Let's Talk About:** 
     - Designing boardgames!
-    - Anything related to machine-near operations!
+    - Anything relaed to **distributed systems** and **RAG** systems.
+    - East Africa and the **Horn of Africa**.
+
 
 <h2> 🧑‍💻 Good languages and technologies: </h2>
 
 <div align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"  width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"    width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="75" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="75" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="75" height="65"/>
-      <img src="netlogo.png" alt="Scala" width="75" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"                          width="75" height="75"/>  
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"                    width="65" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"                   width="55" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"                     width="65" height="65"/> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"                 width="55" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"                    width="55" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite"                    width="75" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"        width="75" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang"                    width="75" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx"                       width="75" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"                width="75" height="65"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"   width="75" height="65"/>
+    <img src="netlogo.png" alt="Scala" width="75" height="65"/>
 </div>
 
 <h2> Good people I have worked with </h3>
 
-- [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://github.com/SverreNystad/TutorAI).
+- [Tobias Fremming](https://github.com/tobiasfremming) on [TutorAI](https://]github.com/SverreNystad/TutorAI).
 - [Sverre Nystad](https://github.com/SverreNystad) on [TutorAI](https://github.com/SverreNystad/TutorAI) and more.
 - [Kristoffer Nohr Olaisen](https://github.com/Knolaisen) on  [TutorAI](https://github.com/SverreNystad/TutorAI).
 - [Olav Selnes Lorentzen](https://github.com/olavsl) on [TutorAI](https://github.com/SverreNystad/TutorAI).
-- [Ovi T.](https://github.com/Impelon) on the [BroadBubble](https://github.com/LockedInTheSkage/BroadBubble) project.
+- [Ovidiu Viktor Tatar](https://github.com/Impelon) on the [BroadBubble](https://github.com/LockedInTheSkage/BroadBubble) project.
+- [Mikael Gundersen](https://github.com/mikelism) on the [FuzzSjakk project](https://github.com/mikelism/fuzzpwa) project.
 
 - And many more!
 
