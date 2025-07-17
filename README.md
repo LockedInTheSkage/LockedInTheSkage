@@ -13,7 +13,7 @@
 - **💬 Let's Talk About:** 
     - Designing boardgames!
     - Anything relaed to **distributed systems** and **RAG** systems.
-    - East Africa and the **Horn of Africa**.
+    - Countries like China or Mexico, or East African nations in the horn of Africa
 
 
 <h2> 🧑‍💻 Good languages and technologies: </h2>
