@@ -58,7 +58,7 @@
 
   <h3><a href="https://github.com/LockedInTheSkage/BroadBubble" width="200">Broad Bubble</a></h3>
   <p> 
-  Agent-based simulation exploring ways to reduce isolation in social media. We extended an earlier research project to introduce customizable tools for studying filter bubbles. Published in *"Broadening the Bubble: Technological Countermeasures to Isolation in an Agent-based Simulation of Social Media"*.
+  Agent-based simulation exploring ways to reduce isolation in social media. We extended an earlier research project to introduce customizable tools for studying filter bubbles. Detailed in "Broadening the Bubble: Technological Countermeasures to Isolation in an Agent-based Simulation of Social Media".
 
 The model builds upon the foundational work described in "The triple filter bubble: Using agent-based modeling to test a meta-theoretical framework for the emergence of filter bubbles and echo chambers" by Daniel Geschke and his team.
   </p>
