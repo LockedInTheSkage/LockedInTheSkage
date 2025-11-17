@@ -6,7 +6,7 @@
 ## About Me:
 
 - **🚀 Positions:**
-    - Currently working as a **Fullstack Web Developer** on the [FuzzSjakk](https://www.fuzzbeta.no) project, developing a tournament system for a chess website. My main responsibilities are backend coding and server management, but I also work across frontend and backend.
+    - Currently working as a **Backend Developer** on the [FuzzSjakk](https://www.fuzzbeta.no) project, developing a tournament system for a chess website.
     - Former **Technical Assistant** at **NTNU Department of Materials Science and Engineering** (2022–2025), where I built a large database system for the Norwegian Public Roads Administration, developed UIs and scripts, and held courses in SQL and related technologies.
 - **🏦 Education:**
     - Master's in **Teacher Education in Science** from **NTNU Trondheim** (2020–2025).
