@@ -6,7 +6,7 @@
 ## About Me:
 
 - **🚀 Positions:**
-    - Currently working as a **Backend Developer** on the [FuzzSjakk](https://www.fuzzbeta.no) project, developing a tournament system for a chess website.
+    - Currently working as a **Junior DevOps engineer** at **ZapTec** providing high quality infrastructure for hundreds of thousands EVs.
     - Former **Technical Assistant** at **NTNU Department of Materials Science and Engineering** (2022–2025), where I built a large database system for the Norwegian Public Roads Administration, developed UIs and scripts, and held courses in SQL and related technologies.
 - **🏦 Education:**
     - Master's in **Teacher Education in Science** from **NTNU Trondheim** (2020–2025).
@@ -17,20 +17,6 @@
     - AI, databases, indexing, and search technology.
     - Machine learning, evolutionary algorithms, and distributed systems.
     - Countries like China or Mexico, or East African nations in the Horn of Africa.
-
-<h2> 🧑‍💻 Good languages and technologies: </h2>
-
-<div align="center">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"                          width="75" height="75"/>  
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"                    width="65" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"                   width="55" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"                    width="55" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite"                    width="75" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"        width="75" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang"                    width="75" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx"                       width="75" height="65"/>
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"                width="75" height="65"/>
-</div>
 
 <h2> Good people I have worked with </h3>
 
